@@ -1,5 +1,8 @@
 <div>
-    In work, do what you enjoy.
+    {{-- {{$name}}
     <br>
-    {{$data}}
+    <input type="text" wire:model.blur="name" style="border: 1px solid black"> --}}
+    {{$name}}
+    <br>
+    {{$this->fullName}}
 </div>
