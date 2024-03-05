@@ -28,9 +28,15 @@
 {{-- <livewire:test-action /> --}}
 {{-- ///////////////// --}}
 {{-- لازم يكونو مع بعض في نفس الصفحه عشان ال event و ال lisner يشتغلو --}}
-<livewire:first-event />
+{{-- <livewire:first-event />
 <livewire:second-event />
-<livewire:third-event />
+<livewire:third-event /> --}}
+{{-- ///////////////// --}}
+{{-- Hooks --}}
+{{-- <livewire:try-hooks /> --}}
+{{-- ///////////////// --}}
+{{-- Nested Component --}}
+<livewire:parent-component />
 {{-- ///////////////// --}}
 
 
