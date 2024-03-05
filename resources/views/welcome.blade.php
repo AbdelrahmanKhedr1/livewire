@@ -25,7 +25,13 @@
 <livewire:post name="omar"/><br>
 <livewire:post name="ahmed"/><br> --}}
 
-<livewire:test-action />
+{{-- <livewire:test-action /> --}}
+{{-- ///////////////// --}}
+{{-- لازم يكونو مع بعض في نفس الصفحه عشان ال event و ال lisner يشتغلو --}}
+<livewire:first-event />
+<livewire:second-event />
+<livewire:third-event />
+{{-- ///////////////// --}}
 
 
         {{-- <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
