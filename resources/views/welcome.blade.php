@@ -40,8 +40,10 @@
 {{-- <livewire:parent-component /> --}}
 {{-- ///////////////// --}}
 {{-- Validation --}}
-<livewire:validation-component />
-
+{{-- <livewire:validation-component /> --}}
+{{-- ///////////////// --}}
+{{-- files  --}}
+<livewire:files-component />
 {{-- ///////////////// --}}
 
 
