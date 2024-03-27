@@ -43,7 +43,10 @@
 {{-- <livewire:validation-component /> --}}
 {{-- ///////////////// --}}
 {{-- files  --}}
-<livewire:files-component />
+{{-- <livewire:files-component /> --}}
+{{-- ///////////////// --}}
+{{-- features - query string - pagination  --}}
+<livewire:search-component />
 {{-- ///////////////// --}}
 
 
